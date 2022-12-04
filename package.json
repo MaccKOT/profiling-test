@@ -4,8 +4,13 @@
   "description": "",
   "main": "index.js",
   "type": "commonjs",
-  "scripts": {},
+  "scripts": {
+    "benchmark": "node src/micro-benchmark.js"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "micro-benchmark": "^1.3.22"
+  }
 }
