@@ -26,3 +26,7 @@ optimal-simple-script       5.2 x 10^3               0.19
 optimal-modern-ES-script    1.3 x 10^3               0.80
 not-optimal-script          38                       26
 ```
+
+## Встроенный профайлер в VS Code
+
+Редактор VS Code имеет [встроенный профайлер](https://code.visualstudio.com/docs/nodejs/profiling), который умеет анализировать загрузку CPU и размер HEAP.
